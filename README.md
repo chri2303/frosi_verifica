@@ -15,6 +15,6 @@ code . apre vs studio
 
 git add . prepara il file per essere committato
 
-git commit -m "abc" serve persalvare nellarepo i progressi del programma
+git commit -m "abc" serve far vedere  nella repo i progressi del programma
 
-
+gh repo create nomerepo --public --source --remoteorigin -- push serve per creare la repo su github e per salvare i commit nella repo
